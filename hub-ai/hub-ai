@@ -1,0 +1,4 @@
+#!/bin/bash
+export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python 
+python3.8 /home/bhien/hub-ai/hub-ai.py >> /home/bhien/hub-ai/hub-ai.log 2>&1
+
